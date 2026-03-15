@@ -1,0 +1,12 @@
+Dataset Name: AdventureWorks2012
+
+Source:
+Microsoft SQL Server Sample Database
+
+Download Link:
+https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
+
+Description:
+AdventureWorks is a sample relational database provided by Microsoft. 
+It simulates a company's sales, customers, products, and order data 
+and is commonly used for SQL practice and database learning.
